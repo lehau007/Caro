@@ -8,7 +8,7 @@ After running, you can choose one of these options
 <img src="DemoImg/image.png" alt="option image" width="585"/>
 
 And then, this is my game: 20 × 20 Caro Game  
-<img src="DemoImg/image1.png" alt="game image" width="600"/>
+<img src="DemoImg/image1.png" alt="game image" width="585"/>
 
 Repository: [lehau007/Caro](https://github.com/lehau007/Caro)
 
